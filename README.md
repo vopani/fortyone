@@ -22,7 +22,7 @@ Data Science Nightly (DSN) is an ensemble of modern tutorials, apps and resource
 ## 🎁 Content
 **Kaggle**
 
-* [Progressively approaching Kaggle](https://vopani.medium.com/a-progressive-approach-to-starting-kaggle-competitions-5cad36fa8255): Getting started with Kaggle competitions using the Tabular Playground Series
+* [Progressively approaching Kaggle](https://vopani.medium.com/progressively-approaching-kaggle-f58db71a42a9): Getting started with Kaggle competitions using the Tabular Playground Series
 
 ## 💡 Motivation
 Creation and curation of high quality, hands-on and relevant content.
