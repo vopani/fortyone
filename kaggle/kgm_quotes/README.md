@@ -11,6 +11,6 @@ Thank You to all for sharing 🙏
 
 If you are a Competitions KGM, fill [this form](https://forms.gle/gYsRxswfWGvSe18h8) to get yourself added!
 
-**P.S.** This is currently limited to Competition KGMs. Other category KGMs will be added soon!
+**P.S.** Other category KGMs will be enabled soon!
 
 </div>
