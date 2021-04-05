@@ -2,6 +2,9 @@
   
 <h1>An Ensemble of Kaggle Grandmaster Quotes</h1>
 
+💡 _"Kaggle is about trying to get a better and better solution to the problem while unconsciously learning a lot at the same time"_   
+©️ [Kun Hao Yeh](https://www.kaggle.com/khyeh0719)
+
 💡 _"Understanding how to properly evaluate machine learning models has been my most valuable learning on Kaggle"_   
 ©️ [Psi](https://www.kaggle.com/philippsinger)
 
