@@ -2,7 +2,7 @@
   
 <h1>An Ensemble of Kaggle Grandmaster Quotes</h1>
 
-💡 _"Understanding how to properly evaluate machine learning models has been my most valuable learning on Kaggle"_
+💡 _"Understanding how to properly evaluate machine learning models has been my most valuable learning on Kaggle"_   
 ©️ [Psi](https://www.kaggle.com/philippsinger)
 
 💡 _"Kaggle is my dream second job but comes at a sacrifice"_   
