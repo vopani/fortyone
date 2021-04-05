@@ -12,8 +12,6 @@ Learn. Do. Iterate.
 
 ---
 
-<img src='images/learn_do_iterate_1480_x_820.png'>
-
 </div>
 
 ## 🚀 Mission
