@@ -5,6 +5,9 @@
 💡 _"Kaggle is my dream second job but comes at a sacrifice"_   
 ©️ [Rohan Rao](https://www.kaggle.com/rohanrao)
 
+💡 _"Practice makes a person perfect, Kaggle makes a data scientist perfect!"_   
+©️ [SRK](https://www.kaggle.com/sudalairajkumar)
+
 Thank You to all for sharing 🙏
 
 ---
