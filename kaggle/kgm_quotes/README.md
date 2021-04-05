@@ -2,6 +2,9 @@
   
 <h1>An Ensemble of Kaggle Grandmaster Quotes</h1>
 
+💡 _"Debugging, Mathematics & Programming are the weapons that must be in a Kaggler's arsenal"_   
+©️ [Kiran R](https://www.kaggle.com/rkirana)
+
 💡 _"Kaggle is about trying to get a better and better solution to the problem while unconsciously learning a lot at the same time"_   
 ©️ [Kun Hao Yeh](https://www.kaggle.com/khyeh0719)
 
