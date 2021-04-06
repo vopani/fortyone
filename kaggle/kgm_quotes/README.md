@@ -14,6 +14,9 @@
 💡 _"Kaggle is my dream second job but comes at a sacrifice"_   
 ©️ [Rohan Rao](https://www.kaggle.com/rohanrao)
 
+💡 _"It's not machine learning, it's human learning that happens at Kaggle"_   
+©️ [shai](https://www.kaggle.com/sgalib)
+
 💡 _"Practice makes a person perfect, Kaggle makes a data scientist perfect"_   
 ©️ [SRK](https://www.kaggle.com/sudalairajkumar)
 
