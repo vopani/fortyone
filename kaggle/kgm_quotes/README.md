@@ -2,6 +2,9 @@
   
 <h1>An Ensemble of Kaggle Grandmaster Quotes</h1>
 
+💡 _"Kaggle is the best unimportant nonsense to keep myself busy until I die"_   
+©️ [Ahmet Erdem](https://www.kaggle.com/aerdem4)
+
 💡 _"I didn't choose Kaggle Life, Kaggle Life chose me"_   
 ©️ [Bojan Tunguz](https://www.kaggle.com/tunguz)
 
