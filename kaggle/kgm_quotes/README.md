@@ -2,6 +2,9 @@
   
 <h1>An Ensemble of Kaggle Grandmaster Quotes</h1>
 
+💡 _"Anyone can want a Grandmaster rank but few people want to study and practice like a Grandmaster."_   
+©️ [Andrey Lukyanenko](https://www.kaggle.com/artgor)
+
 💡 _"Debugging, Mathematics & Programming are the weapons that must be in a Kaggler's arsenal"_   
 ©️ [Kiran R](https://www.kaggle.com/rkirana)
 
@@ -11,7 +14,7 @@
 💡 _"Understanding how to properly evaluate machine learning models has been my most valuable learning on Kaggle"_   
 ©️ [Psi](https://www.kaggle.com/philippsinger)
 
-💡 _"Kaggle is my dream second job but comes at a sacrifice"_   
+💡 _"Kaggling is my dream second job but comes at a sacrifice"_   
 ©️ [Rohan Rao](https://www.kaggle.com/rohanrao)
 
 💡 _"It's not machine learning, it's human learning that happens at Kaggle"_   
@@ -23,7 +26,7 @@
 💡 _"Kaggle is a huge training set with rankings as a validation score, the test set is your job & performances correlate quite well"_   
 ©️ [Théo Viel](https://www.kaggle.com/theoviel)
 
-Thank You to all for sharing 🙏
+Thank You to all for your contribution 🙏
 
 ---
 
