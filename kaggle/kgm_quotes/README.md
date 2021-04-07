@@ -14,6 +14,9 @@
 💡 _"It's hard to find someone who tried as many ideas that failed as I did but I always believe in the next one"_   
 ©️ [dott](https://www.kaggle.com/dott1718)
 
+💡 _"Kaggle is a place where one can improve modeling skills until perfection"_   
+©️ [Guanshuo Xu](https://www.kaggle.com/wowfattie)
+
 💡 _"Debugging, Mathematics & Programming are the weapons that must be in a Kaggler's arsenal"_   
 ©️ [Kiran R](https://www.kaggle.com/rkirana)
 
