@@ -5,6 +5,9 @@
 💡 _"I didn't choose Kaggle Life, Kaggle Life chose me"_   
 ©️ [Bojan Tunguz](https://www.kaggle.com/tunguz)
 
+💡 _"Kaggle is a legal drug"_   
+©️ [CPMP](https://www.kaggle.com/cpmpml)
+
 💡 _"It's hard to find someone who tried as many ideas that failed as I did but I always believe in the next one"_   
 ©️ [dott](https://www.kaggle.com/dott1718)
 
