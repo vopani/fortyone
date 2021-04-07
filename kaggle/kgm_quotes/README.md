@@ -2,6 +2,9 @@
   
 <h1>An Ensemble of Kaggle Grandmaster Quotes</h1>
 
+💡 _"I didn't choose Kaggle Life, Kaggle Life chose me"_   
+©️ [Bojan Tunguz](https://www.kaggle.com/tunguz)
+
 💡 _"Debugging, Mathematics & Programming are the weapons that must be in a Kaggler's arsenal"_   
 ©️ [Kiran R](https://www.kaggle.com/rkirana)
 
@@ -22,6 +25,9 @@
 
 💡 _"Kaggle is a huge training set with rankings as a validation score, the test set is your job & performances correlate quite well"_   
 ©️ [Théo Viel](https://www.kaggle.com/theoviel)
+
+💡 _"Learn Data Science from the many contents and teachers on Kaggle"_   
+©️ [Y. Nakama](https://www.kaggle.com/yasufuminakama)
 
 Thank You for your contribution 🙏
 
