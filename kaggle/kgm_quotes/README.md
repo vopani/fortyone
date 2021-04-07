@@ -20,6 +20,9 @@
 💡 _"Practice makes a person perfect, Kaggle makes a data scientist perfect"_   
 ©️ [SRK](https://www.kaggle.com/sudalairajkumar)
 
+💡 _"Kaggle is a huge training set with rankings as a validation score, the test set is your job & performances correlate quite well"_   
+©️ [Théo Viel](https://www.kaggle.com/theoviel)
+
 Thank You to all for sharing 🙏
 
 ---
