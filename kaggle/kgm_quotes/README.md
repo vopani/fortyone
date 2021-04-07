@@ -2,9 +2,6 @@
   
 <h1>An Ensemble of Kaggle Grandmaster Quotes</h1>
 
-💡 _"Anyone can want a Grandmaster rank but few people want to study and practice like a Grandmaster."_   
-©️ [Andrey Lukyanenko](https://www.kaggle.com/artgor)
-
 💡 _"Debugging, Mathematics & Programming are the weapons that must be in a Kaggler's arsenal"_   
 ©️ [Kiran R](https://www.kaggle.com/rkirana)
 
@@ -26,7 +23,7 @@
 💡 _"Kaggle is a huge training set with rankings as a validation score, the test set is your job & performances correlate quite well"_   
 ©️ [Théo Viel](https://www.kaggle.com/theoviel)
 
-Thank You to all for your contribution 🙏
+Thank You for your contribution 🙏
 
 ---
 
