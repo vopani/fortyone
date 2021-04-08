@@ -41,7 +41,7 @@
 💡 _"Learn Data Science from the many contents and teachers on Kaggle"_   
 ©️ [Y. Nakama](https://www.kaggle.com/yasufuminakama)
 
-Thank You for your contribution 🙏
+<h3>Thank You for your contribution 🙏</h3>
 
 ---
 

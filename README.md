@@ -21,6 +21,7 @@ Data Science Nightly (DSN) is an ensemble of modern tutorials, apps and resource
 **Kaggle**
 
 * [Progressively approaching Kaggle](https://towardsdatascience.com/progressively-approaching-kaggle-f58db71a42a9): Getting started with Kaggle competitions using the Tabular Playground Series
+* [Grandmaster Quotes](https://github.com/vopani/datasciencenightly/tree/main/kaggle/kgm_quotes): The ultimate Kaggle Cheat Sheet by top Grandmasters
 
 ## 💡 Motivation
 Creation and curation of high quality, hands-on and relevant content.
