@@ -3,7 +3,7 @@
 <img src='images/logo_name_light_450_x_150.png'>
 <br>
 
-Curated Data Science
+Human Learning Models
 
 ---
 
@@ -16,15 +16,17 @@ Curated Data Science
 </div>
 
 ## Mission 🚀
-FortyOne is an ensemble of modern tutorials, apps and resources on a variety of Data Science topics for beginners, intermediates and experts.
+FortyOne is an ensemble of tutorials, codes, apps and resources on a variety of Data Science topics for beginners, intermediates and experts.
 
 ## Notebooks 📔
 
 AutoML Tutorials
 
-| Library    | Type    | GitHub | Colab |
-| ---------- | ------- | ------ | ----- |
-| H2O AutoML | Tabular | [![View on GitHub](https://img.shields.io/static/v1?label=&message=View%20on%20GitHub&color=grey&logo=github)](https://github.com/vopani/fortyone/blob/main/notebooks/automl/tabular/H2O%20AutoML.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vopani/fortyone/blob/main/notebooks/automl/tabular/H2O%20AutoML.ipynb) |
+| Library    | Type    | Colab | Kaggle | GitHub |
+| ---------- | ------- | ----- | ------ | ------ |
+| H2O AutoML | Tabular | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vopani/fortyone/blob/main/notebooks/automl/tabular/H2O%20AutoML.ipynb) | [![Open in Kaggle](https://img.shields.io/static/v1?label=&message=Open%20in%20Kaggle&labelColor=grey&color=blue&logo=kaggle)](https://www.kaggle.com/rohanrao/fortyone-h2o-automl) | [![Open in GitHub](https://img.shields.io/static/v1?label=&message=Open%20in%20GitHub&labelColor=grey&color=blue&logo=github)](https://github.com/vopani/fortyone/blob/main/notebooks/automl/tabular/H2O%20AutoML.ipynb) |
+
+**P.S.** GitHub render of Jupyter Notebooks often fails
 
 ## Articles 📖
 
