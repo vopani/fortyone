@@ -20,8 +20,11 @@ FortyOne is an ensemble of modern tutorials, apps and resources on a variety of 
 
 ## Notebooks 📔
 
-* AutoML Tutorials
-	* H2O AutoML
+AutoML Tutorials
+
+| Library    | Type    | GitHub | Colab |
+| ---------- | ------- | ------ | ----- |
+| H2O AutoML | Tabular | [![View on GitHub](https://img.shields.io/static/v1?label=&message=View%20on%20GitHub&color=grey&logo=github)](https://github.com/vopani/fortyone/blob/main/notebooks/automl/tabular/H2O%20AutoML.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vopani/fortyone/blob/main/notebooks/automl/tabular/H2O%20AutoML.ipynb) |
 
 ## Articles 📖
 
