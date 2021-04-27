@@ -3,7 +3,7 @@
 <img src='images/logo_name_light_450_x_150.png'>
 <br>
 
-Human Learning Models
+Machine Learning begins with Human Learning
 
 ---
 
@@ -16,11 +16,9 @@ Human Learning Models
 </div>
 
 ## Mission 🚀
-FortyOne is an ensemble of tutorials, codes, apps and resources on a variety of Data Science topics for beginners, intermediates and experts.
+FortyOne is an ensemble of tutorials, codes, apps, articles and resources on a variety of Machine Learning topics for beginners, intermediates and experts to upskill themselves.
 
-## Notebooks 📔
-
-AutoML Tutorials
+## AutoML Tutorials 🤖
 
 | Library    | Type    | Colab | Kaggle | GitHub |
 | ---------- | ------- | ----- | ------ | ------ |
