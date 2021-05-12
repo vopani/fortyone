@@ -14,6 +14,9 @@
 💡 _"It's hard to find someone who tried as many ideas that failed as I did but I always believe in the next one"_   
 ©️ [dott](https://www.kaggle.com/dott1718)
 
+💡 _"Hindsight is 20/20 on Kaggle; learn what it teaches you and come back stronger in your next competition"_   
+©️ [Ern Chiew](https://www.kaggle.com/erniechiew)
+
 💡 _"Kaggle is a place where one can improve modeling skills until perfection"_   
 ©️ [Guanshuo Xu](https://www.kaggle.com/wowfattie)
 
