@@ -26,6 +26,9 @@
 💡 _"Kaggle is about trying to get a better and better solution to the problem while unconsciously learning a lot at the same time"_   
 ©️ [Kun Hao Yeh](https://www.kaggle.com/khyeh0719)
 
+💡 _"On Kaggle, it pays to think outside the box and to understand what's inside the box"_   
+©️ [Matt Motoki](https://www.kaggle.com/mmotoki)
+
 💡 _"Understanding how to properly evaluate machine learning models has been my most valuable learning on Kaggle"_   
 ©️ [Psi](https://www.kaggle.com/philippsinger)
 
