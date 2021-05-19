@@ -47,12 +47,12 @@
 💡 _"Learn Data Science from the many contents and teachers on Kaggle"_   
 ©️ [Y. Nakama](https://www.kaggle.com/yasufuminakama)
 
+---
+
 <h3>Thank You for your contribution 🙏</h3>
 
 ---
 
-If you are a Competitions KGM, fill [this form](https://forms.gle/gYsRxswfWGvSe18h8) to get yourself added!
-
-**P.S.** Other category KGMs will be enabled soon!
+If you are a Competitions Kaggle Grandmaster, fill [this form](https://forms.gle/gYsRxswfWGvSe18h8) to get yourself added!
 
 </div>
