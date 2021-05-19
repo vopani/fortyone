@@ -26,6 +26,9 @@
 💡 _"Kaggle is about trying to get a better and better solution to the problem while unconsciously learning a lot at the same time"_   
 ©️ [Kun Hao Yeh](https://www.kaggle.com/khyeh0719)
 
+💡 _"There are no losers in Kaggle, if you do your best and learn something from Kaggle, you are the winner"_   
+©️ [mamas](https://www.kaggle.com/mamasinkgs)
+
 💡 _"On Kaggle, it pays to think outside the box and to understand what's inside the box"_   
 ©️ [Matt Motoki](https://www.kaggle.com/mmotoki)
 
