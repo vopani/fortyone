@@ -20,6 +20,9 @@
 💡 _"Kaggle is a place where one can improve modeling skills until perfection"_   
 ©️ [Guanshuo Xu](https://www.kaggle.com/wowfattie)
 
+💡 _"Kaggle teaches us about the vastness of the world"_   
+©️ [Hidehisa](https://www.kaggle.com/hidehisaarai1213)
+
 💡 _"Debugging, Mathematics & Programming are the weapons that must be in a Kaggler's arsenal"_   
 ©️ [Kiran R](https://www.kaggle.com/rkirana)
 
