@@ -23,6 +23,9 @@
 💡 _"Kaggle teaches us about the vastness of the world"_   
 ©️ [Hidehisa](https://www.kaggle.com/hidehisaarai1213)
 
+💡 _"Don't ever underestimate a bunch of nerds with too much computing power and a dataset to overfit to"_   
+©️ [Khoi Nguyen](https://www.kaggle.com/suicaokhoailang)
+
 💡 _"Debugging, Mathematics & Programming are the weapons that must be in a Kaggler's arsenal"_   
 ©️ [Kiran R](https://www.kaggle.com/rkirana)
 
