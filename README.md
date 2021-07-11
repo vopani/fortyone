@@ -23,7 +23,8 @@ Creating course content to reflect my own journey in Machine Learning.
 ✅ Suitable for **beginners** or **intermediates** or **experts** - Choose your expertise
 
 <h2>Datatable <img src="https://raw.githubusercontent.com/h2oai/datatable/main/docs/_static/py_datatable_logo.png" width="22px"></img></h2>
-* [DatatableTon](https://github.com/vopani/datatableton) 💯 datatable exercises: Exercises & tutorials to teach & learn Python datatable
+
+* [DatatableTon: 💯 datatable exercises](https://github.com/vopani/datatableton): Exercises & tutorials to teach & learn Python datatable
 
 ## AutoML Series 🤖
 The AutoML series explores various **open source AutoML libraries** covering the following topics (wherever applicable):
