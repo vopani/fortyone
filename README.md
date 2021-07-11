@@ -20,7 +20,10 @@ Creating course content to reflect my own journey in Machine Learning.
 
 ✅ Structured as **tutorials** or **exercises** or **projects** - Choose your style   
 ✅ Available on **Colab** or **Kaggle** or **Binder** or **GitHub** - Choose your platform   
-✅ Suitable for **beginners** or **intermediates** or **experts** - Choose your depth
+✅ Suitable for **beginners** or **intermediates** or **experts** - Choose your expertise
+
+<h2>Datatable <img src="https://raw.githubusercontent.com/h2oai/datatable/main/docs/_static/py_datatable_logo.png" width="22px"></img></h2>
+* [DatatableTon: 💯 datatable exercises](https://github.com/vopani/datatableton): Exercises & tutorials to teach & learn Python datatable
 
 ## AutoML Series 🤖
 The AutoML series explores various **open source AutoML libraries** covering the following topics (wherever applicable):
@@ -52,7 +55,7 @@ The content is available as Jupyter Notebooks and can be run locally by cloning 
 Please create a [Discussion](https://github.com/vopani/fortyone/discussions/categories/topics) to request for content on a particular topic.   
 Please create an [Issue](https://github.com/vopani/fortyone/issues) for any improvements, suggestions or errors in the content.
 
-You can also [tag me on Twitter](https://twitter.com/vopani) for any other queries or feedback.
+You can also tag [@vopani](https://twitter.com/vopani) on Twitter for any other queries or feedback.
 
 ## License 📋
-This project is licensed under the [Apache License 2.0](#LICENSE)
+This project is licensed under the [Apache License 2.0](https://github.com/vopani/fortyone/blob/main/LICENSE).
