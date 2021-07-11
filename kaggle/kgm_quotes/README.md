@@ -26,6 +26,9 @@
 💡 _"Don't ever underestimate a bunch of nerds with too much computing power and a dataset to overfit to"_   
 ©️ [Khoi Nguyen](https://www.kaggle.com/suicaokhoailang)
 
+💡 _"Kaggle is about proving and proving and proving again"_   
+©️ [Kim Montgomery](https://www.kaggle.com/dynamic24)
+
 💡 _"Debugging, Mathematics & Programming are the weapons that must be in a Kaggler's arsenal"_   
 ©️ [Kiran R](https://www.kaggle.com/rkirana)
 
