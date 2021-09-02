@@ -17,6 +17,9 @@
 💡 _"Hindsight is 20/20 on Kaggle; learn what it teaches you and come back stronger in your next competition"_   
 ©️ [Ern Chiew](https://www.kaggle.com/erniechiew)
 
+💡 _"Kaggle not only introduces you to data science but also to nice people you can end up on the same github page one day"_   
+©️ [Fatih Ozturk](https://www.kaggle.com/fatihozturk)
+
 💡 _"Kaggle is a place where one can improve modeling skills until perfection"_   
 ©️ [Guanshuo Xu](https://www.kaggle.com/wowfattie)
 
