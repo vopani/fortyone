@@ -31,15 +31,15 @@ The AutoML series explores various **open source AutoML libraries** on the Kaggl
 
 | TPS Notebook | AutoGluon | AutoSklearn | FLAML | H2OAutoML | LightAutoML | MLJAR | TPOT |
 | --------------- | :-------: | :----------: | :---: | :--------: | :---------: | :---: | :--: |
-| [September 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-september-2021) | ✅ |  | ✅ | ✅ | ✅ | ✅ |   |
-| [August 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-august-2021) | ✅ |  | ✅ | ✅ | ✅ | ✅ |   |
-| [July 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-july-2021) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
-| [June 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-june-2021) |  | ✅ |  | ✅ |  |  |   |
+| [Sep 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-september-2021) | ✅ |  | ✅ | ✅ | ✅ | ✅ |   |
+| [Aug 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-august-2021) | ✅ |  | ✅ | ✅ | ✅ | ✅ |   |
+| [Jul 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-july-2021) | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Jun 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-june-2021) |  | ✅ |  | ✅ |  |  |   |
 | [May 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-may-2021) |  | ✅ |  | ✅ |  |  |   |
-| [April 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-april-2021) |  | ✅ |  | ✅ |  |  |   |
-| [March 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-march-2021) |  | ✅ |  | ✅ |  |  |   |
-| [February 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-february-2021) |  | ✅ |  | ✅ |  |  |   |
-| [January 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-january-2021) |  | ✅ |  | ✅ |  |  |   |
+| [Apr 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-april-2021) |  | ✅ |  | ✅ |  |  |   |
+| [Mar 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-march-2021) |  | ✅ |  | ✅ |  |  |   |
+| [Feb 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-february-2021) |  | ✅ |  | ✅ |  |  |   |
+| [Jan 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-january-2021) |  | ✅ |  | ✅ |  |  |   |
 
 ## Articles 📖
 
