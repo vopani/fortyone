@@ -36,7 +36,7 @@ The AutoML series explores various **open source AutoML libraries** on Kaggle's 
 | [Jul 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-july-2021) | Regression | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [Jun 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-june-2021) | Multiclass |  |  | ✅ |  |  |  |
 | [May 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-may-2021) | Multiclass |  |  | ✅ |  |  |  |
-| [Apr 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-april-2021) |  Binary |  |  | ✅ |  |  |  |
+| [Apr 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-april-2021) |  Binary | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [Mar 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-march-2021) | Binary | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | [Feb 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-february-2021) | Regression |  |  | ✅ |  |  |  |
 | [Jan 2021](https://www.kaggle.com/rohanrao/automl-tutorial-tps-january-2021) | Regression |  |  | ✅ |  |  |  |
