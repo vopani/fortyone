@@ -31,7 +31,7 @@ The AutoML series explores various **open source AutoML libraries** on Kaggle's 
 
 | TPS Notebook | Type | AutoGluon | FLAML | H2OAutoML | LightAutoML | MLJAR | TPOT |
 | :----------: | :--: | :-------: | :---: | :-------: | :---------: | :---: | :--: |
-| Sep 2021 | Binary |
+| Sep 2021 | Binary | ✅ |
 
 ## Articles 📖
 
