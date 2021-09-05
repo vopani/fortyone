@@ -30,7 +30,8 @@ Creating course content to reflect my own journey in Machine Learning.
 The AutoML series explores various **open source AutoML libraries** on Kaggle's Tabular Playground Series (TPS) competitions:
 
 | TPS Notebook | Type | AutoGluon | FLAML | H2OAutoML | LightAutoML | MLJAR | TPOT |
-| --- | --- | --- | --- | --- | --- | --- | --- |
+| :----------: | :--: | :-------: | :---: | :-------: | :---------: | :---: | :--: |
+| Sep 2021 | Binary |
 
 ## Articles 📖
 
